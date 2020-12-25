@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lab_5 %28chess%29.cpp" />
+    <ClCompile Include="Lab_5 _chess.cpp" />
+    <ClCompile Include="Lab_5_houses.cpp" />
+    <ClCompile Include="Lab_5_circle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

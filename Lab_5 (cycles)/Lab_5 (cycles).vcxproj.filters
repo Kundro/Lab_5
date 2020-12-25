@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab_5 %28chess%29.cpp">
+    <ClCompile Include="Lab_5 _chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab_5_houses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab_5_circle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
